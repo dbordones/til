@@ -10,11 +10,14 @@ pairing with smart people at Hashrocket.
 
 ## Categories
 
-| Type | README |
+| Plugin | README |
 | ------ | ------ |
-| Devops | [devops/README.md][PlDb] |
-| DNS | [dns/README.md][PlGh] |
-| Kubernetes | [kubernetes/README.md][PlGd] |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 
 ## License
